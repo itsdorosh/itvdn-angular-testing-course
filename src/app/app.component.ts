@@ -6,6 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css'],
 })
 export class AppComponent {
-  title = "ng-shaper";
+  title = "ng-shaper1";
   subtitle = "Make your own 3D space with different figures";
 }
